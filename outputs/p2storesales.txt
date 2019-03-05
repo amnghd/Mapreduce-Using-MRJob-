@@ -1,0 +1,3 @@
+"Chandler"	499.98
+"Reno"	499.99
+"Toledo"	499.98
